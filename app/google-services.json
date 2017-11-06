@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "994672121988",
+    "firebase_url": "https://firefirst-24697.firebaseio.com",
+    "project_id": "firefirst-24697",
+    "storage_bucket": "firefirst-24697.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994672121988:android:1e148d77b1049d82",
+        "android_client_info": {
+          "package_name": "com.firefirst.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994672121988-vvb018dl81uqevv5or8qe1lr16ra98kt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl3A7QMj-obVnhVVKLjydf4W9xdinoL0c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994672121988:android:401ef67123afaa6b",
+        "android_client_info": {
+          "package_name": "com.ctrivia.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994672121988-vvb018dl81uqevv5or8qe1lr16ra98kt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl3A7QMj-obVnhVVKLjydf4W9xdinoL0c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
